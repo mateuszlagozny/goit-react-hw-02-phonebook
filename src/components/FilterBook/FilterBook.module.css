@@ -1,0 +1,12 @@
+.label{
+    display: flex;
+    padding-left: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.input{
+    display: flex;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(217, 217, 219);
+}
